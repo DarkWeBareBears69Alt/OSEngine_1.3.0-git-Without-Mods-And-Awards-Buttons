@@ -691,9 +691,9 @@ class TitleState extends MusicBeatState
 					addMoreText('Cooljer', 45);
 				case 3:
 					deleteCoolText();
-					createCoolText(['Forked', 'from'], 15);
+					createCoolText(['Mod', 'created by'], 15);
 				case 4:
-					addMoreText('Psych Engine', 45);
+					addMoreText('TheUnknownKoala4545', 45);
 				case 6:
 					deleteCoolText();
 					createCoolText(['Psych Engine by'], 45);
